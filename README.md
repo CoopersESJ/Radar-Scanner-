@@ -17,9 +17,9 @@ A radar-style scanner built using:
 - SG90 Servo
 
 ## Wiring
-TRIG -> Pin 9
-ECHO -> Pin 10
-SERVO -> Pin 6
+- TRIG -> Pin 9
+- ECHO -> Pin 10
+- SERVO -> Pin 6
 
 ## Software
 - Arduino IDE
@@ -30,3 +30,8 @@ SERVO -> Pin 6
 - Better object tracking
 - OLED display
 - Wireless communication
+
+## Lessons Learned 
+ - First interaction with coding language, heavily aided by AI
+ - First interaction with Github and creating repositories
+   
