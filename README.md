@@ -25,7 +25,7 @@ SERVO -> Pin 6
 - Arduino IDE
 - Processing
 - Tinkercad
-- 
+
 ## Future Improvements
 - Better object tracking
 - OLED display
